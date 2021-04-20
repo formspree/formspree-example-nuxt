@@ -1,22 +1,25 @@
-# formspree-example-nuxt
+# [Formspree](https://formspree.io) & [Nuxt.js](https://nuxtjs.org) example
 
-An example of using Formspree with Nuxt.js
+**An example of using [Formspree](https://formspree.io) with [Nuxt.js](https://nuxtjs.org). For more information on how to use Formspree check out [our official integration guide](#).**
 
-## Build Setup
+**[Check out the demo site here](#)**
 
-```bash
-# install dependencies
-$ npm install
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/formspree/formspree-example-nuxt)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+**[Fork this repo &rarr;](https://github.com/formspree/formspree-example-nuxt/fork)**
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+## Installation
 
-# generate static project
-$ npm run generate
+Clone down repo, navigate to the repo directory and…
+
+```shell
+# Install dependencies
+npm install
+
+# Run nuxt locally at localhost:3000
+npm run dev
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## License & Attribution
+
+TBC
