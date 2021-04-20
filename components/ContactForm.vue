@@ -37,6 +37,7 @@ form button {
   border: 1px solid currentColor;
   background: none;
   padding: 0.4rem 0.5rem;
+  margin: 0;
 }
 form textarea {
   resize: vertical;
