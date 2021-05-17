@@ -1,7 +1,7 @@
 {
-  "name": "My Nuxt Site",
+  "name": "formspree-example-nuxt",
   "version": "1.0.0",
-  "private": true,
+  "description": "My Nuxt Site",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
