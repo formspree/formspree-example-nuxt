@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "My Nuxt.js Site",
+    title: "My Nuxt Site",
     htmlAttrs: {
       lang: "en"
     },
